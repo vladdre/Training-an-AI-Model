@@ -13,21 +13,6 @@ A machine learning project focused on training, evaluating, and fine-tuning an A
 
 ---
 
-## Project Structure
-
-```text
-├── data/               # Dataset directory (raw & processed)
-├── models/             # Model architecture definitions
-├── checkpoints/        # Saved model weights and checkpoints
-├── utils/              # Helper functions and metrics
-├── train.py            # Main training script
-├── evaluate.py         # Evaluation and testing script
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-```
-
----
-
 ## Setup and Installation
 
 ### Prerequisites
