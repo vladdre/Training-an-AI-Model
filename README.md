@@ -37,15 +37,10 @@ A machine learning project focused on training, evaluating, and fine-tuning an A
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone [https://github.com/vladdre/Training-an-AI-Model.git](https://github.com/vladdre/Training-an-AI-Model.git)
    cd Training-an-AI-Model
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ---
